@@ -14,7 +14,7 @@
     <ows:AccessConstraints>No se permite la descarga masiva de datos</ows:AccessConstraints>
   </ows:ServiceIdentification>
   <ows:ServiceProvider>
-    <ows:ProviderName>Samuel Mesa</ows:ProviderName>
+    <ows:ProviderName>Lina Vasquez</ows:ProviderName>
     <ows:ProviderSite xlink:href="http://linavasquez039.github.io"/>
   </ows:ServiceProvider>
   <Contents>
@@ -24,11 +24,11 @@
       <ows:Abstract>Mapa base de medellin a partir de datos OSM</ows:Abstract>
       <ows:BoundingBox crs="urn:ogc:def:crs:EPSG:6.18.3:3857">
         <ows:LowerCorner>-8435632.93864 683923.569651</ows:LowerCorner>
-        <ows:UpperCorner>-9.39050353492e+11 -13575551.9288</ows:UpperCorner>
+        <ows:UpperCorner>-8395335.28297 713188.251638</ows:UpperCorner>
       </ows:BoundingBox>
       <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
         <ows:LowerCorner>-75.77858 6.13205</ows:LowerCorner>
-        <ows:UpperCorner>-8435632.851 683923.575</ows:UpperCorner>
+        <ows:UpperCorner>-75.41658 6.39337</ows:UpperCorner>
       </ows:WGS84BoundingBox>
       <Style isDefault="true">
         <ows:Identifier>default</ows:Identifier>
